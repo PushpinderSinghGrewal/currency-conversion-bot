@@ -138,9 +138,12 @@ function getBotDelay(msg, isQuick = false) {
     );
   }
 }
-ReactDOM.render(<ReactBotUI
-  dialogflow={{accessToken: 'f17a002742964563b69c0ff02f146a63'}}
-  dialogHeightMax={350}
-  isUserHidden={false}
-  isVisible={true}
-  ref={el => this.chat = el} />, document.getElementById('root'));
+ReactDOM.render(<div id="bar" style={{marginTop:'-20px',height:'90px',backgroundColor:'#3B5998'}} >
+  <div style={{color:'white'}}><h1 style={{fontSize:'30px',paddingLeft:'240px',paddingTop:'20px'}}> Currency Conversion </h1>
+
+  </div><ReactBotUI
+    dialogflow={{accessToken: 'f17a002742964563b69c0ff02f146a63'}}
+    dialogHeightMax={350}
+    isUserHidden={false}
+    isVisible={true}
+    ref={el => this.chat = el} /></div>, document.getElementById('root'));

@@ -18,7 +18,7 @@
 
   --container-bg: white;
   --container-right: 0;
-  --container-width: 100%;
+  --container-width: 30%;
 
   --message-margin-lg: 60px;
   --message-margin-sm: 40px;
@@ -41,7 +41,7 @@
 .container header {
   background: var(--primary-color);
   cursor: pointer;
-  height: 45px;
+  height: 55px;
 
   padding: 5px 10px;
 }
