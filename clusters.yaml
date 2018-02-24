@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: ambrosia89-hasura
+  data: null
+  kubeContext: ambrosia89
+  name: ambrosia89
