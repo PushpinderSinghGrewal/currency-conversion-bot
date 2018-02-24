@@ -14,10 +14,14 @@ This is what a  few common interactions with the bot look like -
 
 
 **If a user is quite inquistive about the bot** - 
+
 ![alt text](https://github.com/PushpinderSinghGrewal/currency-conversion-bot/blob/master/microservices/ui/app/src/image2.png)
 
 **When the bot is asked to convert currencies** -
+
 ![alt text](https://github.com/PushpinderSinghGrewal/currency-conversion-bot/blob/master/microservices/ui/app/src/image3.png)
+
+
 **Contributors**
 **. Pushpinder Singh Grewal** - Responsible for creating the front end using React.js and integrating it with Dialog flow (api.ai).
 **. Niranjan Dhooli**  - Responsible for creating the backend using Node.js and integrating the webhook with the Hasura APIs.
