@@ -61,11 +61,11 @@ class Input extends Component {
 					onClick={this.handleListen}>
 					<EntypoMic/>
 				</button> */}
-				/*<button className="btn-send"
+				<button className="btn-send"
 					type="submit"
-					value="Send">
-					<EntypoPaperPlane/> &nbsp;Send
-				</button> */
+				value="Send">
+					&nbsp;Send
+				</button> 
 			</form>
 		);
 	}
