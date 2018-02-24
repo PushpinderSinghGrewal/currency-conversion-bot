@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {EntypoPaperPlane, EntypoMic} from 'react-entypo';
+
 //import Audio from './Audio';
 
 class Input extends Component {
@@ -12,7 +12,7 @@ class Input extends Component {
 		//this.handleListen = this.handleListen.bind(this);
 		this.handleSubmit = this.handleSubmit.bind(this);
 	}
-	
+
 	/*handleAudio(e) {
 		const last = e.results.length - 1;
 		const value = this.state.value + e.results[last][0].transcript;
