@@ -24,5 +24,6 @@ This is what a  few common interactions with the bot look like -
 
 ## Contributors
 
-**. Pushpinder Singh Grewal**  (@PushpinderSinghGrewal) -Responsible for creating the front end using React.js and integrating it with Dialog flow (api.ai).
-**. Niranjan Dhooli**   (@DHOOLI) -Responsible for creating the backend using Node.js and integrating the webhook with the Hasura APIs.
+..* Pushpinder Singh Grewal**  [@PushpinderSinghGrewal](www.github.com/PushpinderSinghGrewal) -Responsible for creating the front end using React.js and integrating it with Dialog flow (api.ai).
+
+..* Niranjan Dhooli**   [@DHOOLI](https://github.com/DHOOLI) -Responsible for creating the backend using Node.js and integrating the webhook with the Hasura APIs.
