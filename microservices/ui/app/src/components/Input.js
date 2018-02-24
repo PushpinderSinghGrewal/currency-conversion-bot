@@ -45,27 +45,27 @@ class Input extends Component {
 	render(){
 		return(
 			<form className="text-form"
-						onSubmit={this.handleSubmit}>
+				onSubmit={this.handleSubmit}>
 				<input className="text-input"
-							 type="text"
-							 name="inputText"
-							 placeholder="Enter your message"
-							 value={this.state.value}
-							 ref={input => this._text = input}
-							 onChange={this.handleChange}
-							 autoComplete={'false'}
-							 required />
+					type="text"
+					name="inputText"
+					placeholder="Enter your message"
+					value={this.state.value}
+					ref={input => this._text = input}
+					onChange={this.handleChange}
+					autoComplete={'false'}
+				required />
 				{/* <button className="btn-voice"
-								type="button"
-								value="Voice"
-								onClick={this.handleListen}>
+					type="button"
+					value="Voice"
+					onClick={this.handleListen}>
 					<EntypoMic/>
 				</button> */}
-				<button className="btn-send"
-								type="submit"
-								value="Send">
+				/*<button className="btn-send"
+					type="submit"
+					value="Send">
 					<EntypoPaperPlane/> &nbsp;Send
-				</button>
+				</button> */
 			</form>
 		);
 	}
