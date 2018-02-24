@@ -141,6 +141,6 @@ function getBotDelay(msg, isQuick = false) {
 ReactDOM.render(<ReactBotUI
   dialogflow={{accessToken: 'f17a002742964563b69c0ff02f146a63'}}
   dialogHeightMax={350}
-  isUserHidden={true}
+  isUserHidden={false}
   isVisible={true}
   ref={el => this.chat = el} />, document.getElementById('root'));
