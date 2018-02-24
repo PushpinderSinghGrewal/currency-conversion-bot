@@ -1,4 +1,5 @@
 **Currency conversion bot**
+
 A bot that lets its users convert one currency into another. Built with the Hasura APIs and as part of Hasura Product development fellowship.
 
 **Working**
