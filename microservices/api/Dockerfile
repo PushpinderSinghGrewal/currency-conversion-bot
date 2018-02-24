@@ -1,11 +1,12 @@
-FROM mhart/alpine-node:7.6.0
+FROM node:8
 
 WORKDIR /src
 
-# Add app source files
-ADD src /src
-
+ADD src/package.json /src/
 #install node modules
 RUN npm install
+
+# Add app source files
+ADD src /src
 
 CMD ["node", "server.js"]
