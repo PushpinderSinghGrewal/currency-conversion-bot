@@ -22,7 +22,7 @@ This is what a  few common interactions with the bot look like -
 ![alt text](https://github.com/PushpinderSinghGrewal/currency-conversion-bot/blob/master/microservices/ui/app/src/image3.png)
 
 
-**Contributors**
+## Contributors
 
-**. Pushpinder Singh Grewal** - Responsible for creating the front end using React.js and integrating it with Dialog flow (api.ai).
-**. Niranjan Dhooli**  - Responsible for creating the backend using Node.js and integrating the webhook with the Hasura APIs.
+**. Pushpinder Singh Grewal**  (@PushpinderSinghGrewal) -Responsible for creating the front end using React.js and integrating it with Dialog flow (api.ai).
+**. Niranjan Dhooli**   (@DHOOLI) -Responsible for creating the backend using Node.js and integrating the webhook with the Hasura APIs.
