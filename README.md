@@ -1,12 +1,14 @@
-**Currency conversion bot**
+## Currency conversion bot
 
 A bot that lets its users convert one currency into another. Built with the Hasura APIs and as part of Hasura Product development fellowship.
 
-**Working**
+#### Working
+
 Visit https://ui.ambrosia89.hasura-app.io/ to try out the bot in its full functionality.
 
 This is what a  few common interactions with the bot look like -
-Reply to a hello or a hi text from the user.
+
+When a user says hello-
 ![alt text](https://github.com/PushpinderSinghGrewal/currency-conversion-bot/blob/master/microservices/ui/app/src/image1.png)
 
 
