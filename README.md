@@ -2,7 +2,7 @@
 
 A bot that lets its users convert one currency into another. Built with the Hasura APIs and as part of Hasura Product development fellowship.
 
-#### Working
+## Working
 
 Visit https://ui.ambrosia89.hasura-app.io/ to try out the bot in its full functionality.
 
