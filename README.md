@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A Dialogflow bot that lets its users convert one currency into another. Built with a Hasura service as a webhook and as part of Hasura Product development fellowship.
+A Dialogflow bot that lets its users convert one currency into another. Built with a Hasura service as a webhook and as part of Hasura Product Development fellowship.
 
 ## How it works?
 
