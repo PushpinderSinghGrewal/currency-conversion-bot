@@ -15,7 +15,7 @@ This is what a  few common interactions with the bot look like -
 ![alt text](https://github.com/PushpinderSinghGrewal/currency-conversion-bot/blob/master/microservices/ui/app/src/image1.png)
 
 
-**If a user is quite inquistive about the bot** - 
+**If a user is quite inquisitive about the bot** - 
 
 ![alt text](https://github.com/PushpinderSinghGrewal/currency-conversion-bot/blob/master/microservices/ui/app/src/image2.png)
 
